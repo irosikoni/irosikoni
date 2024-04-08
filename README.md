@@ -8,6 +8,5 @@ Here are some of my most interesting completed projects:
 
 
 What I am working on right now:
-- Calendar-scheduler app in Python, that will meet my needs in organizing my time: https://github.com/AdamTrybus/pyqt
 - My own cookbook with my recipes: https://github.com/irosikoni/cookbook
 
